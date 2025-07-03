@@ -87,7 +87,7 @@ textures/
   2k_mars.jpg
   2k_jupiter.jpg
   2k_saturn.jpg
-  2k_saturn_ring_alpha.png
+  2k_saturn_ring_alpha.jpg
   2k_uranus.jpg
   2k_neptune.jpg
 ```
